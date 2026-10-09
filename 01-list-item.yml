@@ -1,0 +1,6 @@
+info:
+  name: list 1
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/accounts-service-2/1
